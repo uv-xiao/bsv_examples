@@ -1,0 +1,8 @@
+**/*.so
+**/*.bo
+**/*.vcd
+**/*.o
+Build/*bsim*
+Build/build_bsim/
+Build/build_v/
+Build/verilog_dir/

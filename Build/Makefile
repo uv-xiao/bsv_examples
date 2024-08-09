@@ -15,7 +15,9 @@
 # Please modify the following for your installation and setup
 
 # Directory for the specific example you are building
-EG ?= Eg02a_HelloWorld
+# EG ?= Eg02c_HelloWorld
+# EG ?= GPT4_FAdder
+EG ?= GPT4_delay2cycle
 
 # Directory containing the Bluespec Training distribution directory
 DISTRO ?= ..
